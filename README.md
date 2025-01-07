@@ -24,3 +24,6 @@
   $ npm run dev
 ```
 "# Office" 
+
+IMPORTANT!!!
+Make node_modules folder and put everything from node_modules 1,2 and 3 into that folder.
