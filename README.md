@@ -26,4 +26,4 @@
 "# Office" 
 
 IMPORTANT!!!
-Make node_modules folder and put everything from node_modules 1,2,3,4 and 5 into that folder.
+Make node_modules folder and put everything from node_modules 1,2,3,4,5 and 6 into that folder.
