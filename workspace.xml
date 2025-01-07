@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="431fbaac-a255-4e57-bcd5-2750073222e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/office.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/chair.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/desk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/door.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/floor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/floor1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/wall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.prod.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2qb8WJAw6CSpEAHo2Vr7lyAF7aY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/user/phaser/office",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-WS-243.22562.222" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="431fbaac-a255-4e57-bcd5-2750073222e3" name="Changes" comment="" />
+      <created>1734919946990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734919946990</updated>
+      <workItem from="1734919946991" duration="314000" />
+      <workItem from="1734962119833" duration="1418000" />
+      <workItem from="1734967882450" duration="4899000" />
+      <workItem from="1734989832804" duration="6525000" />
+      <workItem from="1735003642676" duration="520000" />
+      <workItem from="1735047917034" duration="6500000" />
+      <workItem from="1735077907467" duration="2887000" />
+      <workItem from="1735082020837" duration="5275000" />
+      <workItem from="1735133090359" duration="10162000" />
+      <workItem from="1735164375607" duration="7688000" />
+      <workItem from="1735220242479" duration="18000" />
+      <workItem from="1735223714429" duration="26000" />
+      <workItem from="1735225643002" duration="586000" />
+      <workItem from="1735226253788" duration="4138000" />
+      <workItem from="1735252016584" duration="3142000" />
+      <workItem from="1735306956849" duration="720000" />
+      <workItem from="1735346306337" duration="1228000" />
+      <workItem from="1735490565897" duration="3685000" />
+      <workItem from="1735509752382" duration="11225000" />
+      <workItem from="1735563886488" duration="8625000" />
+      <workItem from="1735597841668" duration="6345000" />
+      <workItem from="1735652168612" duration="113000" />
+      <workItem from="1735663471139" duration="939000" />
+      <workItem from="1735823585176" duration="1456000" />
+      <workItem from="1735864738873" duration="883000" />
+      <workItem from="1735942951128" duration="4682000" />
+      <workItem from="1736093064489" duration="2345000" />
+      <workItem from="1736118583012" duration="701000" />
+      <workItem from="1736206574707" duration="139000" />
+      <workItem from="1736207236409" duration="2915000" />
+      <workItem from="1736257846194" duration="5251000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
